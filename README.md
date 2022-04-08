@@ -4,7 +4,7 @@ STACOM (Statistical Atlases and Computational Modelling of the Heart) workshop i
 
 ## Upcoming workshop
 
->[13th STACOM 2022, September, Singapore](https://stacom.github.io/stacom2022/)
+>[13th STACOM 2022, September 2022, Singapore](https://stacom.github.io/stacom2022/)
 
 ## Past workshops
 
