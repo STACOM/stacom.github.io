@@ -4,7 +4,7 @@ STACOM (Statistical Atlases and Computational Modelling of the Heart) workshop i
 
 ## Upcoming workshop
 
->[13th STACOM 2022, Singapore](https://stacom.github.io/stacom2022/)
+>[13th STACOM 2022, September, Singapore](https://stacom.github.io/stacom2022/)
 
 ## Past workshops
 
@@ -45,5 +45,4 @@ Enquiry can be emailed to `stacom (at) inria.fr`
 2. Maxime Sermesant, Asclepios INRIA, France
 3. Oscar Camara, Universitat Pompeu Fabra, Spain
 4. Esther Puyol Anton, King's College London, UK
-5. Maria Zuluaga, Eurocom, France
-6. Avan Suinesiaputra, King's College London, UK
+5. Avan Suinesiaputra, King's College London, UK
