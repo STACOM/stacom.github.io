@@ -49,5 +49,4 @@ Enquiry can be emailed to `stacom (at) inria.fr`
 2. Maxime Sermesant, Asclepios INRIA, France
 3. Oscar Camara, Universitat Pompeu Fabra, Spain
 4. Esther Puyol Anton, King's College London, UK
-5. Maria Zuluaga, Eurocom, France
-6. Avan Suinesiaputra, King's College London, UK
+5. Avan Suinesiaputra, King's College London, UK
