@@ -16,7 +16,7 @@ STACOM (Statistical Atlases and Computational Modelling of the Heart) workshop i
 | [11th STACOM 2020, Lima, Peru](https://stacom.github.io/stacom2020/)  | [Multi-Centre, Multi-Vendor & Multi-Disease Cardiac Image Segmentation (M&Ms)](https://www.ub.edu/mnms/) | [LNCS, volume 12592](https://link.springer.com/book/10.1007/978-3-030-68107-4) |
 |  | [Myocardial pathology segmentation combining multi-sequence CMR](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/MyoPS20/) |  |
 |  | [Automatic Evaluation of Myocardial Infarction from Delayed-Enhancement Cardiac MRI (EMIDEC)](http://emidec.com/) |  |
-| [10th STACOM 2019, Shenzen, China](http://stacom2019.cardiacatlas.org/)  | [Multi-sequence Cardiac MR Segmentation](https://zmiclab.github.io/zxh/0/mscmrseg19/) | [LNCS, volume 12009](https://link.springer.com/book/10.1007/978-3-030-39074-7) |
+| [10th STACOM 2019, Shenzen, China](https://stacom.github.io/stacom2019/)  | [Multi-sequence Cardiac MR Segmentation](https://zmiclab.github.io/zxh/0/mscmrseg19/) | [LNCS, volume 12009](https://link.springer.com/book/10.1007/978-3-030-39074-7) |
 |  | [Left Ventricle Full Quantification 2019](https://lvquan19.github.io/) |  |
 |  | [Cardiac Resynchronization Therapy ElectroPhysiological (CRT-EPIGGY19)](http://crt-epiggy19.surge.sh/) |  |
 | [9th STACOM 2018, Granada, Spain](http://stacom2018.cardiacatlas.org/)  | [Atrial Segmentation](http://atriaseg2018.cardiacatlas.org/) | [LNCS, volume 11395](https://link.springer.com/book/10.1007/978-3-030-12029-0) |
