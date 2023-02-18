@@ -43,8 +43,9 @@ Enquiry can be emailed to `stacom (at) inria.fr`
 
 ## Organisers
 
-1. Alistair Young, King's College London, UK
+1. Alistair Young, King's College London, United Kingdom
 2. Maxime Sermesant, Asclepios INRIA, France
 3. Oscar Camara, Universitat Pompeu Fabra, Spain
-4. Esther Puyol Anton, King's College London, UK
-5. Avan Suinesiaputra, King's College London, UK
+4. Esther Puyol Anton, King's College London, United Kingdom
+5. Avan Suinesiaputra, King's College London, United Kingdom
+6. Qian Tao, Delft University of Technology, the Netherlands
