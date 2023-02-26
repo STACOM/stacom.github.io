@@ -21,7 +21,7 @@ STACOM (Statistical Atlases and Computational Modelling of the Heart) workshop i
 |  | [Cardiac Resynchronization Therapy ElectroPhysiological (CRT-EPIGGY19)](http://crt-epiggy19.surge.sh/) |  |
 | [9th STACOM 2018, Granada, Spain](https://stacom.github.io/stacom2018/)  | [Atrial Segmentation](https://www.cardiacatlas.org/atriaseg2018-challenge/) | [LNCS, volume 11395](https://link.springer.com/book/10.1007/978-3-030-12029-0) |
 |  | [Left Ventricle Full Quantification 2018](https://lvquan18.github.io/) |  |
-| [8th STACOM 2017, Quebec City, Canada](http://stacom2017.cardiacatlas.org/)  | [Multi-Modality Whole Heart Segmentation (MMWHS)](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/mmwhs/) | [LNCS, volume 10663](http://dx.doi.org/10.1007/978-3-319-75541-0) |
+| [8th STACOM 2017, Quebec City, Canada](https://stacom.github.io/stacom2017/)  | [Multi-Modality Whole Heart Segmentation (MMWHS)](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/mmwhs/) | [LNCS, volume 10663](http://dx.doi.org/10.1007/978-3-319-75541-0) |
 |  | [Automated Cardiac Diagnosis Challenge (ACDC)](https://www.creatis.insa-lyon.fr/Challenge/acdc/) |  |
 | [7th STACOM 2016, Athens, Greek](http://stacom2016.cardiacatlas.org/)  | [Left Atrium Wall Thickness](http://www.doc.ic.ac.uk/~rkarim/la_lv_framework/wall/index.html) | [LNCS, volume 10124](https://link.springer.com/book/10.1007/978-3-319-52718-5) |
 | [6th STACOM 2015, Athens, Greek](http://stacom.cardiacatlas.org/stacom2015/capwebprd01.its.auckland.ac.nz/web/stacom2015.html)  | [LV Statistical Shape Modelling](http://www.cardiacatlas.org/?p=412) | [LNCS, volume 9534](https://link.springer.com/book/10.1007/978-3-319-28712-6) |
