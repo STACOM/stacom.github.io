@@ -4,7 +4,7 @@ STACOM (Statistical Atlases and Computational Modelling of the Heart) workshop i
 
 ## Upcoming workshop
 
-> *COMING SOON THIS YEAR*
+> [14th STACOM 2023, Vancouver, Canada](https://stacom.github.io/stacom2023/)
 
 ## Past workshops
 
