@@ -5,6 +5,7 @@ STACOM (Statistical Atlases and Computational Modelling of the Heart) workshop i
 ## Upcoming workshop
 
 > [14th STACOM 2023, 12 October 2023, Vancouver, Canada](https://stacom.github.io/stacom2023/)
+> 
 > Challenge: [Cardiac MRI Reconstruction (CMRxRecon)](https://cmrxrecon.github.io/)
 
 ## Past workshops
