@@ -37,7 +37,7 @@ STACOM (Statistical Atlases and Computational Modelling of the Heart) workshop i
 |  | [1st CFD Simulation on Aortic Coarctation](http://www.vascularmodel.org/miccai2012/) |  |
 |  | [2nd Motion Tracking](http://www.physense.org/stacom2012/index.php?option=com_content&view=article&id=42&Itemid=22) |  |
 |  | [LV Landmark Detection](https://www.cardiacatlas.org/lv-landmark-detection-challenge/) |  |
-| 2nd STACOM 2011, Toronto, Canada  | [1st Motion Tracking](http://www.cardiacatlas.org/challenges/motion-tracking-challenge/) | [LNCS, volume 7085](https://link.springer.com/book/10.1007/978-3-642-28326-0) |
+| 2nd STACOM 2011, Toronto, Canada  | 1st Motion Tracking | [LNCS, volume 7085](https://link.springer.com/book/10.1007/978-3-642-28326-0) |
 | | [LV Segmentation](https://www.cardiacatlas.org/lv-segmentation-challenge/) | |
 | 1st STACOM & CESC 2010, Beijing, China |  | [LNCS, volume 6364](https://link.springer.com/book/10.1007/978-3-642-15835-3) |
 
