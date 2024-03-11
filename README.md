@@ -31,7 +31,7 @@ STACOM (Statistical Atlases and Computational Modelling of the Heart) workshop i
 | [6th STACOM 2015, Athens, Greek](http://stacom.cardiacatlas.org/stacom2015/capwebprd01.its.auckland.ac.nz/web/stacom2015.html)  | [LV Statistical Shape Modelling](http://www.cardiacatlas.org/?p=412) | [LNCS, volume 9534](https://link.springer.com/book/10.1007/978-3-319-28712-6) |
 | [5th STACOM 2014, Boston, USA](http://stacom.cardiacatlas.org/stacom2014)  | [Motion Correction](http://www.cardiacatlas.org/challenges/moco-perfusion-challenge/) | [LNCS, volume 8896](https://link.springer.com/book/10.1007/978-3-319-14678-2) |
 |  | [LV Mechanics](http://stacom.cardiacatlas.org/stacom2014/capwebprd01.its.auckland.ac.nz/web/stacom2014/lv-mechanics-challenge.html) |  |
-| [4th STACOM 2013, Nagoya, Japan](http://stacom.cardiacatlas.org/stacom2013)  | [Left Atrium Segmentation](http://www.cardiacatlas.org/?p=410) | [LNCS, volume 8830](https://link.springer.com/book/10.1007/978-3-642-54268-8) |
+| [4th STACOM 2013, Nagoya, Japan](http://stacom.cardiacatlas.org/stacom2013)  | [Left Atrium Segmentation])(https://github.com/catactg/lasc) | [LNCS, volume 8830](https://link.springer.com/book/10.1007/978-3-642-54268-8) |
 |  | [2nd CFD Simulation on Aortic Coarctation](http://www.vascularmodel.org/miccai2013) |  |
 | [3rd STACOM 2012, Nice, France](http://www.physense.org/stacom2012/)  | [LV MRI Infarct Segmentation](https://www.doc.ic.ac.uk/~rkarim/la_lv_framework/lv_infarct/index.html) | [LNCS, volume 7749](https://link.springer.com/book/10.1007/978-3-642-36961-2) |
 |  | [1st CFD Simulation on Aortic Coarctation](http://www.vascularmodel.org/miccai2012/) |  |
