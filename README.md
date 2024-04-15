@@ -2,12 +2,12 @@
 
 STACOM (Statistical Atlases and Computational Modelling of the Heart) workshop is a forum for discussion of the latest developments in the areas of statistical atlases and computational imaging and modelling of the heart. The topics of the workshop includes cardiac image processing, atlas construction, statistical modelling of cardiac function across different patient populations, cardiac mapping, cardiac computational physiology, model customization, atlas-based functional analysis, ontological schemata for data and results, integrated functional and structural analyses, as well as the pre-clinical and clinical applicability of these methods.
 
-<!--## Upcoming workshop
+## Upcoming workshop
 
-> [14th STACOM 2023, 12 October 2023, Vancouver, Canada](https://stacom.github.io/stacom2023/)
+> [15th STACOM 2024, TBA October 2024, Marrakesh, Morocco](https://stacom.github.io/stacom2024/)
 > 
-> Challenge: TBD
--->
+> Challenge: TBA
+
 
 ## Past workshops
 
