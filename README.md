@@ -7,7 +7,7 @@ STACOM (Statistical Atlases and Computational Modelling of the Heart) workshop i
 > [15th STACOM 2024, 10 October 2024, Marrakesh, Morocco](https://stacom.github.io/stacom2024/)
 > 
 > Challenges:
-> * [Universal Model for Cardiac MRI Reconstruction Challenge (CMRxUniversalRecon)](https://cmrxrecon.github.io/Home.html)
+> * [Universal Model for Cardiac MRI Reconstruction Challenge (CMRxUniversalRecon)]([https://cmrxrecon.github.io/Home.html](https://cmrxrecon.github.io/2024/Home.html)
 > * [Multi-class Bi-Atrial Segmentation Challenge (MBAS)](https://codalab.lisn.upsaclay.fr/competitions/18516)
 
 
