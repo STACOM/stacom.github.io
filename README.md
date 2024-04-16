@@ -4,9 +4,11 @@ STACOM (Statistical Atlases and Computational Modelling of the Heart) workshop i
 
 ## Upcoming workshop
 
-> [15th STACOM 2024, TBA October 2024, Marrakesh, Morocco](https://stacom.github.io/stacom2024/)
+> [15th STACOM 2024, 10 October 2024, Marrakesh, Morocco](https://stacom.github.io/stacom2024/)
 > 
-> Challenge: TBA
+> Challenges:
+> * [Cardiac MRI Reconstruction Challenge (CMRxRecon)](https://cmrxrecon.github.io/Home.html)
+> * [Multi-class Bi-Atrial Segmentation Challenge (MBAS)](https://codalab.lisn.upsaclay.fr/competitions/18516)
 
 
 ## Past workshops
