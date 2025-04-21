@@ -36,7 +36,7 @@ STACOM (Statistical Atlases and Computational Modelling of the Heart) workshop i
 |  | [LV Mechanics](http://stacom.cardiacatlas.org/stacom2014/capwebprd01.its.auckland.ac.nz/web/stacom2014/lv-mechanics-challenge.html) |  |
 | 4th STACOM 2013, Nagoya, Japan  | [Left Atrium Segmentation](https://github.com/catactg/lasc) | [LNCS, volume 8830](https://link.springer.com/book/10.1007/978-3-642-54268-8) |
 |  | [2nd CFD Simulation on Aortic Coarctation](http://www.vascularmodel.org/miccai2013) |  |
-| [3rd STACOM 2012, Nice, France](http://www.physense.org/stacom2012/)  | [LV MRI Infarct Segmentation](https://www.doc.ic.ac.uk/~rkarim/la_lv_framework/lv_infarct/index.html) | [LNCS, volume 7749](https://link.springer.com/book/10.1007/978-3-642-36961-2) |
+| 3rd STACOM 2012, Nice, France  | [LV MRI Infarct Segmentation](https://www.doc.ic.ac.uk/~rkarim/la_lv_framework/lv_infarct/index.html) | [LNCS, volume 7749](https://link.springer.com/book/10.1007/978-3-642-36961-2) |
 |  | [1st CFD Simulation on Aortic Coarctation](http://www.vascularmodel.org/miccai2012/) |  |
 |  | [2nd Motion Tracking](http://www.physense.org/stacom2012/index.php?option=com_content&view=article&id=42&Itemid=22) |  |
 |  | [LV Landmark Detection](https://www.cardiacatlas.org/lv-landmark-detection-challenge/) |  |
