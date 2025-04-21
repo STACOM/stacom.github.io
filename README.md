@@ -31,7 +31,7 @@ STACOM (Statistical Atlases and Computational Modelling of the Heart) workshop i
 | [8th STACOM 2017, Quebec City, Canada](https://stacom.github.io/stacom2017/)  | [Multi-Modality Whole Heart Segmentation (MMWHS)](https://zmiclab.github.io/zxh/0/mmwhs/) | [LNCS, volume 10663](http://dx.doi.org/10.1007/978-3-319-75541-0) |
 |  | [Automated Cardiac Diagnosis Challenge (ACDC)](https://www.creatis.insa-lyon.fr/Challenge/acdc/) |  |
 | 7th STACOM 2016, Athens, Greek  | [Left Atrium Wall Thickness](http://www.doc.ic.ac.uk/~rkarim/la_lv_framework/wall/index.html) | [LNCS, volume 10124](https://link.springer.com/book/10.1007/978-3-319-52718-5) |
-| 6th STACOM 2015, Munich, Germany  | [LV Statistical Shape Modelling](http://www.cardiacatlas.org/?p=412) | [LNCS, volume 9534](https://link.springer.com/book/10.1007/978-3-319-28712-6) |
+| 6th STACOM 2015, Munich, Germany  | [LV Statistical Shape Modelling](https://www.cardiacatlas.org/lv-statistical-shape-challenge/) | [LNCS, volume 9534](https://link.springer.com/book/10.1007/978-3-319-28712-6) |
 | 5th STACOM 2014, Boston, USA  | [Motion Correction](http://www.cardiacatlas.org/challenges/moco-perfusion-challenge/) | [LNCS, volume 8896](https://link.springer.com/book/10.1007/978-3-319-14678-2) |
 |  | [LV Mechanics](http://stacom.cardiacatlas.org/stacom2014/capwebprd01.its.auckland.ac.nz/web/stacom2014/lv-mechanics-challenge.html) |  |
 | 4th STACOM 2013, Nagoya, Japan  | [Left Atrium Segmentation](https://github.com/catactg/lasc) | [LNCS, volume 8830](https://link.springer.com/book/10.1007/978-3-642-54268-8) |
