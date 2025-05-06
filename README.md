@@ -14,7 +14,7 @@ STACOM (Statistical Atlases and Computational Modelling of the Heart) workshop i
 
 | Events      | Challenges  | Proceedings |
 | ---------- | ----------- | ----------- |
-| [15th STACOM 2024, 10 October 2024, Marrakesh, Morocco](https://stacom.github.io/stacom2024/) | [Universal Model for Cardiac MRI Reconstruction Challenge (CMRxUniversalRecon)](https://cmrxrecon.github.io/2024/Home.html) | [LNCS, volume 15448](http://127.0.0.1:4000/stacom2024/)
+| [15th STACOM 2024, 10 October 2024, Marrakesh, Morocco](https://stacom.github.io/stacom2024/) | [Universal Model for Cardiac MRI Reconstruction Challenge (CMRxUniversalRecon)](https://cmrxrecon.github.io/2024/Home.html) | [LNCS, volume 15448](https://doi.org/10.1007/978-3-031-87756-8)
 | | [Multi-class Bi-Atrial Segmentation Challenge (MBAS)](https://codalab.lisn.upsaclay.fr/competitions/18516) | 
 | [14th STACOM 2023, 12 October 2023, Vancouver, Canada](https://stacom.github.io/stacom2023/) | [Cardiac MRI Reconstruction (CMRxRecon)](https://cmrxrecon.github.io/) | [LNCS, volume 14507](https://doi.org/10.1007/978-3-031-52448-6)
 | [13th STACOM 2022, 18 September 2022, Singapore](https://stacom.github.io/stacom2022/) | [Left Atrial and Scar Quantification & Segmentation (LAScarQS) Challenge](https://zmiclab.github.io/projects/lascarqs22/) | [LNCS, volume 13593](https://doi.org/10.1007/978-3-031-23443-9) |
