@@ -4,16 +4,19 @@ STACOM (Statistical Atlases and Computational Modelling of the Heart) workshop i
 
 ## Upcoming workshop
 
+<!--
 > [16th STACOM 2025, TBA September 2025, Daejeon, Republic of Korea](https://stacom.github.io/stacom2025/)
 > 
 > Challenges:
 > * TBA soon
+-->
 
 
 ## Past workshops
 
 | Events      | Challenges  | Proceedings |
 | ---------- | ----------- | ----------- |
+| [16th STACOM 2025, TBA September 2025, Daejeon, Republic of Korea](https://stacom.github.io/stacom2025/) | [Cardiac MRI Reconstruction Challenge 2025 (CMRxRecon2025)](https://cmrxrecon.github.io/2025/Home.html) | _in production_
 | [15th STACOM 2024, 10 October 2024, Marrakesh, Morocco](https://stacom.github.io/stacom2024/) | [Universal Model for Cardiac MRI Reconstruction Challenge (CMRxUniversalRecon)](https://cmrxrecon.github.io/2024/Home.html) | [LNCS, volume 15448](https://doi.org/10.1007/978-3-031-87756-8)
 | | [Multi-class Bi-Atrial Segmentation Challenge (MBAS)](https://codalab.lisn.upsaclay.fr/competitions/18516) | 
 | [14th STACOM 2023, 12 October 2023, Vancouver, Canada](https://stacom.github.io/stacom2023/) | [Cardiac MRI Reconstruction (CMRxRecon)](https://cmrxrecon.github.io/) | [LNCS, volume 14507](https://doi.org/10.1007/978-3-031-52448-6)
