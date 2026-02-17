@@ -4,8 +4,8 @@ STACOM (Statistical Atlases and Computational Modelling of the Heart) workshop i
 
 ## Upcoming workshop
 
+> [17th STACOM 2026, TBA October 2026, Abu Dhabi, Uni Arab Emirates](https://stacom.github.io/stacom2026/)
 <!--
-> [16th STACOM 2025, TBA September 2025, Daejeon, Republic of Korea](https://stacom.github.io/stacom2025/)
 > 
 > Challenges:
 > * TBA soon
